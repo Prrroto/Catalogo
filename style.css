@@ -1,0 +1,20 @@
+
+body{
+    background-color: #3a3a3a;
+}
+
+h1{
+    font-weight: 900;
+    color: #ff3c00;
+}
+
+.card{
+    background:#f3f2eb;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+.card h3{
+    font-weight: 700;
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "nombre":"Articulo 1",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/1.png"
+    },
+    {
+        "id":2,
+        "nombre":"Articulo 2",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/2.png"
+    },
+    {
+        "id":3,
+        "nombre":"Articulo 3",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/3.png"
+    },
+    {
+        "id":4,
+        "nombre":"Articulo 4",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/4.png"
+    },
+    {
+        "id":5,
+        "nombre":"Articulo 5",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/5.png"
+    },
+    {
+        "id":6,
+        "nombre":"Articulo 6",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/6.png"
+    },
+    {
+        "id":7,
+        "nombre":"Articulo 7",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/7.png"
+    },
+    {
+        "id":8,
+        "nombre":"Articulo 8",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/8.png"
+    },
+    {
+        "id":9,
+        "nombre":"Articulo 9",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/9.png"
+    },
+    {
+        "id":10,
+        "nombre":"Articulo 10",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/10.png"
+    },
+    {
+        "id":11,
+        "nombre":"Articulo 11",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/11.png"
+    },
+    {
+        "id":12,
+        "nombre":"Articulo 12",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/12.png"
+    },
+    {
+        "id":13,
+        "nombre":"Articulo 13",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/13.png"
+    },
+    {
+        "id":14,
+        "nombre":"Articulo 14",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/14.png"
+    },
+    {
+        "id":15,
+        "nombre":"Articulo 15",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/15.png"
+    },
+    {
+        "id":16,
+        "nombre":"Articulo 16",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/16.png"
+    },
+    {
+        "id":17,
+        "nombre":"Articulo 17",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/17.png"
+    },
+    {
+        "id":18,
+        "nombre":"Articulo 18",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/18.png"
+    },
+    {
+        "id":19,
+        "nombre":"Articulo 19",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/19.png"
+    },
+    {
+        "id":20,
+        "nombre":"Articulo 20",
+        "precio":"$",
+        "miniUrl": "http://salsachipotle.free.nf/imgs/20.png"
+    }
+    ]
